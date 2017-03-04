@@ -1,0 +1,15 @@
+{
+  "name": "yoyo-play",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "routes": "^2.1.0",
+    "yo-yo": "^1.4.0"
+  }
+}
