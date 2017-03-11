@@ -1,0 +1,19 @@
+{
+  "name": "localcast-play",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "browserify example.js > bundle.js",
+    "run": "budo example.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "localcast": "^2.0.1"
+  },
+  "devDependencies": {
+    "browserify": "^14.1.0",
+    "budo": "^9.4.7"
+  }
+}
