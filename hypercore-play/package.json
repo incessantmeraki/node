@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "concat-stream": "^1.6.0",
+    "drag-and-drop-files": "0.0.1",
+    "filereader-stream": "^1.0.0",
+    "hypercore": "^6.10.1",
+    "random-access-memory": "^2.4.0",
+    "signalhub": "^4.9.0",
+    "webrtc-swarm": "^2.8.0"
+  }
+}
